@@ -1,10 +1,10 @@
 div {
     text-align: center;
-    font-size: 150px;
+    font-size: 50px;
 }
 
 button {
-    width: 340px;
+    width: 200px;
     height: 30px;
     color: aliceblue;
     background-color: blue;
@@ -20,6 +20,6 @@ button:active{
 
 input {
     font-size: 20px;
-    width: 350px;
+    width: 200px;
     height: 30px;
 }

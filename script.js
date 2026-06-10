@@ -28,7 +28,7 @@ function todo() {
 
     const newDiv2 = document.createElement("button");
     newDiv2.className = "delete-btn";
-    newDiv2.innerHTML = "🗑 Delete";
+    newDiv2.innerHTML = "Delete";
     newDiv2.setAttribute("onclick", "deleteTodo(" + idx + ")");
 
     newDiv1.appendChild(todoText);
